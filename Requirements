@@ -1,26 +1,14 @@
-📜 Requirements
-This project requires:
+#📜 Requirements
+#This project requires:
 
-Python 3.8+
-
-Streamlit
-
-Pandas
-
-NumPy
-
-Matplotlib
-
-Plotly
-
-FPDF
+pip install streamlit pandas numpy matplotlib plotly fpdf
 
 git add requirements.txt
 git commit -m "Added matplotlib to requirements"
 git push origin main
 
 
-Install these dependencies for moving ahead with this building block of a project.
+#Install these dependencies for moving ahead with this building block of a project.
 
-👨‍💻 Contributing
-Feel free to fork this repository, improve features, and submit a pull request! 🚀
+#👨‍💻 Contributing
+#Feel free to fork this repository, improve features, and submit a pull request! 🚀
