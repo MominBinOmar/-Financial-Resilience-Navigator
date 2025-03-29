@@ -14,6 +14,8 @@ Financial Resilience Navigator is an interactive tool that helps users assess th
 ✅ **Dark Mode Toggle** – Better readability for all users.  
 ✅ **Scenario Analysis** – Adjust inputs to test different financial plans.  
 
+Streamlit link:
+https://financial-resilience-navigator.streamlit.app/
 
 git clone https://github.com/MominBinOmar/Financial-Resilience-Navigator.git
   cd Financial-Resilience-Navigator
