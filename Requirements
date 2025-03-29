@@ -1,0 +1,21 @@
+📜 Requirements
+This project requires:
+
+Python 3.8+
+
+Streamlit
+
+Pandas
+
+NumPy
+
+Matplotlib
+
+Plotly
+
+FPDF
+
+Install these dependencies for moving ahead with this building block of a project.
+
+👨‍💻 Contributing
+Feel free to fork this repository, improve features, and submit a pull request! 🚀
