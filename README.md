@@ -18,3 +18,5 @@ Financial Resilience Navigator is an interactive tool that helps users assess th
 git clone https://github.com/MominBinOmar/Financial-Resilience-Navigator.git
   cd Financial-Resilience-Navigator
 
+#👨‍💻 Contributing
+#Feel free to fork this repository, improve features, and submit a pull request! 🚀
